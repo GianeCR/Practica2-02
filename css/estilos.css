@@ -1,0 +1,73 @@
+.sub-h2 {
+    color: rgb(12, 12, 12);
+    text-align: center;
+    margin:0 0 5px;
+}
+.pt1 {
+    font-size: 17px;
+    text-align: center;
+    margin-top: 0;
+    color: rgb(0, 0, 0);
+}
+.title{
+    color: white;
+    font-size-adjust: initial;
+}
+.i1 {
+    width: 100%;
+    display: block;
+}
+.page {
+    background-image: linear-gradient(rgb(236, 174, 138), rgb(238, 180, 153));
+}
+.icono{
+    color: rgb(44, 44, 44);
+    font-size: 1.4em;
+}
+.barra-sup, .pie{
+    background-color: rgb(240, 117, 124)!important;
+    color: rgb(14, 13, 13);
+}
+.fondo-panel{
+    background-color: rgb(255, 103, 136);
+}
+.fondo-lista{
+    background-color: rgb(243, 172, 211);
+}
+.col{
+    display: flex;
+	justify-content: space-between;
+	width: 130px;
+	height: 40px;
+}
+.col a{
+    position: relative;
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	width: 150px;
+	height: 100%;
+	background: rgb(51, 99, 255);
+	border: 2px solid lightblue;
+	border-radius: 8px;
+	font-size: 19px;
+	color: #ffffff;
+	font-weight: 25px;
+	letter-spacing: 1px;
+	z-index: 1;
+	overflow: hidden;
+}
+.icon{
+    position: relative;
+	width: 28px;
+	height: 28 px;
+}
+.ima1 {
+    position: relative;
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+    width: 350px;
+    height: 250px;
+    display: block;
+}
